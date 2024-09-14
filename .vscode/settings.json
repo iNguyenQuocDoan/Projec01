@@ -1,0 +1,15 @@
+{
+    "editor.formatOnSave": true,
+    "editor.fontLigatures": true,
+    "editor.letterSpacing": 1.5,
+   "editor.fontSize": 15,
+    "editor.cursorWidth": 1,
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.minimap.enabled": false,
+    "emmet.syntaxProfiles": {
+    "html": {
+        "inline_break": 1
+    }
+    }
+}
